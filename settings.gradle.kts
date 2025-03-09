@@ -24,7 +24,6 @@ plugins {
 rootProject.name = "amneziawg-android"
 
 include(":tunnel")
-include(":ui")
 include(":droiddns")
 
 configure<SettingsExtension> {
