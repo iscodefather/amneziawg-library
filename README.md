@@ -6,7 +6,7 @@ This is an Android GUI for [AmneziaWG](https://amnezia.org/learn-more/31_amnezia
 
 Library on Maven Central: [amenziawg-android](https://central.sonatype.com/artifact/com.zaneschepke/amneziawg-android)
 
-## Use the amneziawg-android library
+## Use the amneziawg library
 
 settings.gradle.kts
 ```
@@ -18,7 +18,7 @@ repositories {
 build.gradle.kts
 ```
 dependencies {
-    implementation("com.zaneschepke:amneziawg-android:1.2.0")
+    implementation("com.iscodefather:amneziawg-library:1.2.0")
 }
 ```
 
